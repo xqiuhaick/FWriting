@@ -59,15 +59,12 @@ FWriting 的 AI 不是附属功能，而是**写作流程的一部分**。
 
 - 默认模型 `deepseek-v4-flash`，可在设置里切换
 - API Key 存本机，不进仓库、不上传
-- 不配置 Key 也能正常写作，AI 随时可开
+- 推荐使用`deepseek-v4-flash`模型实测可以续写，重构，润色，任何题材任何内容的文本 支持r18+
 
 ---
 
-## 像 Ulysses 一样的写作体验
 
-如果你熟悉 Ulysses 的用法，这些概念几乎一一对应：
-
-| | Ulysses 风格 | FWriting |
+| FWriting |
 |---|-------------|----------|
 | 组织方式 | 组 / 子组 | **多级项目** + 文稿 |
 | 写作单元 | Sheet | **文稿**（正文 / 资料） |
@@ -159,6 +156,5 @@ Key 保存在本机 UserDefaults。API 调用费用由你的 DeepSeek 账户承�
 
 ## 致谢
 
-- [Ulysses](https://ulysses.app/) — 写作 App 的标杆，FWriting 在组织思路上向它致敬
 - [DeepSeek](https://www.deepseek.com/) — AI 能力
 - Apple SwiftUI / SwiftData — 界面与本地存储
