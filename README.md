@@ -1,4 +1,4 @@
-# FWriting
+# FWriting（高仿Ulysses）
 
 **一款带 AI 的 macOS 写作 App —— 如果你用过 [Ulysses](https://ulysses.app/)，你会立刻感到熟悉。**
 
